@@ -11,6 +11,3 @@ This is a FastAPI project that provides a RESTful API for managing customers, it
 - Create and retrieve individual orders.
 - Delete an order by its ID.
 - Create multiple orders in a single request (bulk order).
-
-Auto-generated interactive documentation with Swagger UI and ReDoc.
-Built-in SQLite database for easy setup and storage.
